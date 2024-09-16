@@ -9,7 +9,7 @@ def enviar_email():
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>email.</title>
+  <title>email</title>
   <style>
     body {
       font-family: Arial, Helvetica, sans-serif;
